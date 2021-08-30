@@ -1,0 +1,6 @@
+# Binaries
+*.o
+# Executable
+sm4.exe
+# Editor backups
+*~
